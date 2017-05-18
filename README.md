@@ -7,3 +7,9 @@ Python的半次元爬虫
 将来的版本中将会增加遍历文章详细页面里图片并进行下载
 
 使用到了 bs4 requests urllib lxml 等库
+
+Get Start: 
+
+python spider.py
+
+介绍页面：https://blog.sakuralove.cn/read/python-spider-for-byc.html
